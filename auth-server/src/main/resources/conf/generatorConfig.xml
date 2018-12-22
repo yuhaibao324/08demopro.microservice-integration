@@ -3,7 +3,7 @@
 
 <generatorConfiguration>
     <!-- 数据库驱动包位置 -->
-    <classPathEntry location="C:\Users\keets\.m2\repository\mysql\mysql-connector-java\5.1.39\mysql-connector-java-5.1.39.jar" />
+    <classPathEntry location="D:\devtools\apache-tomcat-8.5.35\lib\mysql-connector-java-5.1.39-bin.jar" />
 
     <context id="DB2Tables" defaultModelType="flat" targetRuntime="MyBatis3">
 		<!-- 当表名或者字段名为 SQL 关键字的时候，可以设置该属性为 true，MBG 会自动给表名或字段名添加 `分隔符` -->
